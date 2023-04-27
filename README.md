@@ -31,6 +31,20 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>  
+	 <div align=center>
+	<h3>🎨 Portfolio 🎨</h3>
+</div>
+	<div align=center>
+
+	<a href="rulmoon7@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/Portfolio-f1b75220ee794f96b6db421283d04947)">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
+</div>
+	
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkfrnfl&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Tkfrnfl&show_icons=true">
 <!--
