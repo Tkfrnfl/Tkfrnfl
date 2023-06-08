@@ -42,7 +42,7 @@
 	</a>
 </div>	
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkfrnfl&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkfrnfl&layout=compact&exclude_repo=knn">
 <img src="https://github-readme-stats.vercel.app/api?username=Tkfrnfl&show_icons=true">
 <!--
 **Tkfrnfl/Tkfrnfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
