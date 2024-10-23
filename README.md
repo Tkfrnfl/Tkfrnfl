@@ -37,7 +37,7 @@
 <a href="mailto:rulmoon7@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/Portfolio-f1b75220ee794f96b6db421283d04947">
+	<a href="https://atlantic-zucchini-105.notion.site/Portfolio-10eb3226163380dcac64ff2488da0ea5">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>	
