@@ -44,9 +44,9 @@
 	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkfrnfl&layout=compact&exclude_repo=knn">
 <img src="https://github-readme-stats.vercel.app/api?username=Tkfrnfl&show_icons=true">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rul64)](https://solved.ac/rul64/)
 <!--
 **Tkfrnfl/Tkfrnfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rul64)](https://solved.ac/rul64/)
 
 Here are some ideas to get you started:
 
